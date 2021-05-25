@@ -7,3 +7,4 @@
 - LICENSE
 - README.md
 - scripts to support kextcache
+- scripts to support efi partition
