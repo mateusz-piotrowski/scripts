@@ -6,3 +6,4 @@
 
 - LICENSE
 - README.md
+- scripts to support kextcache
