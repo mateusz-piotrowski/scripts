@@ -2,6 +2,10 @@
 
 ## [0.0.3] (March 09 2022)
 
+**Added :**
+
+- pg_ctl_start_database.sh file 
+
 **Updated :**
 
 - CHANGELOG.md file 
