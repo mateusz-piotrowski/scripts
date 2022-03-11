@@ -1,10 +1,20 @@
 # The Changelog
 
+## [0.0.3] (March 09 2022)
+
+**Updated :**
+
+- CHANGELOG.md file 
+
+**Changed:**
+
+- pg_ctl_status.sh to pg_ctl_check_status.sh 
+
 ## [0.0.2] (March 09 2022)
 
 **Added :**
 
-- run pg_ctl to check postgresql service status
+- pg_ctl_status.sh file to check postgresql service status
 
 ## [0.0.1] (May 25 2021)
 
@@ -14,3 +24,4 @@
 - README.md
 - scripts to support kextcache
 - scripts to support efi partition
+
