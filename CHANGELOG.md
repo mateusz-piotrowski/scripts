@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (March 21 2022)
+
+**Added :**
+
+- pg_ctl_stop_database.sh file 
+
 ## [0.0.3] (March 09 2022)
 
 **Added :**
