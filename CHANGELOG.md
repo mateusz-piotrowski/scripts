@@ -1,5 +1,10 @@
 # The Changelog
 
+## [0.0.5] (March 24 2022)
+
+**Added :**
+- update_hostname.sh file
+
 ## [0.0.4] (March 21 2022)
 
 **Added :**
