@@ -1,11 +1,29 @@
 # The Changelog
 
+<<<<<<< HEAD
 ## [0.0.5] (March 24 2022)
 
 **Added :**
 - update_hostname.sh file
 
 ## [0.0.4] (March 21 2022)
+=======
+## [0.0.3] (August 21 2021)
+
+**Update :**
+
+- functions order
+
+## [0.0.2] (March 28 2021)
+
+**Update :**
+
+- heading() function
+- "Too low" comment
+- "Too high" comment
+
+## [0.0.1] (December 29 2020)
+>>>>>>> c3f6fae (Update functions order)
 
 **Added :**
 
